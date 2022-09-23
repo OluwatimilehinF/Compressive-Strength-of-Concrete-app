@@ -6,7 +6,7 @@ The api.py file was where the model was wrapped using FastAPI before being deplo
 Keywords: Nano silica, Micro silica, Compressive strength
 
 The contributors in the projects are:
-FOLARIN O.O
-OMOLE A.O
-ALALADE O.O
+FOLARIN O.O,
+OMOLE A.O,
+ALALADE O.O,
 OLADAPO A.A
