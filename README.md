@@ -5,6 +5,8 @@ The api.py file was where the model was wrapped using FastAPI before being deplo
 
 **LINK TO THE APP:** https://concrete-strength-predict.netlify.app/
 
+![alt text](https://github.com/OluwatimilehinF/Compressive-Strength-of-Concrete-app/blob/main/web_image.png
+)
 Keywords: Nanosilica, Microsilica, Compressive strength
 
 The contributors in the projects are:
