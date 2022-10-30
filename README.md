@@ -3,6 +3,8 @@ In this project, machine learning algorithms were used to develop a model to pre
 Indepth exploratory analysis was done in the "EDA- Nanotech" file, while the "Model and prediction" file contains the steps taken in performiing future engineering, model training, and model evaluation before arriving at the best model to use.
 The api.py file was where the model was wrapped using FastAPI before being deployed on Heroku.
 
+**LINK TO THE APP:** https://concrete-strength-predict.netlify.app/
+
 Keywords: Nanosilica, Microsilica, Compressive strength
 
 The contributors in the projects are:
